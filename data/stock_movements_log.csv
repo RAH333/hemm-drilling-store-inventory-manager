@@ -1,0 +1,8 @@
+doc_no,posting_date,sap_tcode,movement_type,material_code,quantity,reference_doc,issued_to_or_vendor
+5000101,2026-11-10,MIGO,GRN_IN,MAT-1002,6,PO-45000891,Apex Hydraulics Udaipur
+5000102,2026-11-12,MIGO,ISSUE_OUT,MAT-1002,9,WO-9921,HEMM Workshop Bay-2
+5000103,2026-11-14,MIGO,ISSUE_OUT,MAT-1001,28,WO-9934,Mine Pit-A Maintenance
+5000104,2026-11-16,MIGO,GRN_IN,MAT-1004,4,PO-45000904,Epiroc Mining India
+5000105,2026-11-18,MIGO,ISSUE_OUT,MAT-1004,6,WO-9940,Zawar Exploration Rig-03
+5000106,2026-11-20,MIGO,ISSUE_OUT,MAT-1007,450,WO-9948,Fleet Lubrication Team
+5000107,2026-11-22,MIGO,ISSUE_OUT,MAT-1006,2,WO-9952,Loader Overhaul Section
