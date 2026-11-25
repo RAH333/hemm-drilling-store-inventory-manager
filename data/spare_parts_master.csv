@@ -1,0 +1,8 @@
+material_code,oem_part_no,part_description,category,equipment_type,bin_location,uom,unit_price_inr,opening_stock,reorder_level,shelf_life_days,received_date
+MAT-1001,CAT-1U3352,Bucket Tooth Tip Heavy Duty,GET (Ground Engaging),Excavator 320D,RACK-A1-01,NOS,2450,45,20,3650,2026-01-15
+MAT-1002,KOM-707-99-58260,Boom Hydraulic Cylinder Seal Kit,Hydraulics,PC200 Excavator,RACK-B2-04,SET,6800,8,10,365,2026-01-10
+MAT-1003,VOL-11708551,Engine Air Filter Primary Element,Filters,Volvo A40G Dumper,RACK-C1-02,NOS,3200,14,12,730,2026-02-05
+MAT-1004,EPI-3128-3025-11,NQ Diamond Impregnated Core Bit,Exploration Drilling,Surface Core Rig,RACK-D1-01,NOS,18500,6,8,3650,2026-03-01
+MAT-1005,EPI-9051-4410-00,HQ Drill Rod 3.0 Meter Seamless,Exploration Drilling,Underground Drill Rig,YARD-E1-03,NOS,14200,32,15,3650,2026-02-20
+MAT-1006,SKF-22220-E,Spherical Roller Bearing Final Drive,Powertrain,Wheel Loader,RACK-B1-06,NOS,9400,5,6,1825,2026-04-12
+MAT-1007,HYD-SAE68-200L,Anti-Wear Hydraulic Oil ISO VG 68,Lubricants,All HEMM Fleet,OIL-BAY-01,LTR,195,800,400,365,2025-12-05
